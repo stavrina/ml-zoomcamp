@@ -2,6 +2,8 @@
 
 *.csv
 *.code-workspace
+*.zip
+*.txt
 worked_examples/
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,python,jupyternotebooks
